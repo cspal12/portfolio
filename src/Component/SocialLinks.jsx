@@ -39,7 +39,7 @@ const SocialLinks = () => {
           Resume <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "/chander shekhar pal_MTE.pdf",
+      href: "/MyResume.pdf",
       style: "rounded-br-md",
       download: true,
     },

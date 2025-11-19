@@ -21,30 +21,7 @@ const Experience = () => {
       title: "CSS",
       style: "shadow-blue-500",
     },
-    {
-      id: 3,
-      src: javascript,
-      title: "Javascript",
-      style: "shadow-yellow-500",
-    },
-    {
-      id: 4,
-      src: reactImage,
-      title: "React",
-      style: "shadow-blue-600",
-    },
-    {
-      id: 5,
-      src: tailwind,
-      title: "Tailwind",
-      style: "shadow-sky-400",
-    },
-    {
-      id: 6,
-      src: github,
-      title: "Githubg",
-      style: "shadow-gray-400",
-    },
+    
   ];
 
   return (

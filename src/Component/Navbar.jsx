@@ -15,10 +15,7 @@ const Navbar = () => {
       link: "about",
     },
     
-    {
-      id: 4,
-      link: "experience",
-    },
+  
     {
       id: 5,
       link: "contact",
@@ -31,7 +28,7 @@ const Navbar = () => {
      text-white bg-black fixed px-4"
     >
       <div>
-        <h1 className="text-4xl font-signature">Chander Shekhar</h1>
+        <h1 className="text-4xl font-signature">Chander Shekhar Pal</h1>
       </div>
       <ul className="hidden md:flex">
         {Links.map(({ id, link }) => (

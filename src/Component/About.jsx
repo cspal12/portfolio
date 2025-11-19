@@ -13,7 +13,7 @@ const About = () => {
           </p>
         </div>
         <p className="text-xl mt-20">
-          “Open to opportunities in Quality Assurance, specializing in manual testing.”
+          “I am a Manual QA Tester dedicated to ensuring software quality, identifying issues before release, and helping teams deliver reliable, user‑friendly applications.”
         </p>
 
         <br />

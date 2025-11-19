@@ -13,11 +13,7 @@ const About = () => {
           </p>
         </div>
         <p className="text-xl mt-20">
-          I am looking for a job as a react js front-end developer. I'm looking
-          a roll that will enhance my skills and knowledge. I have a total
-          working experience of seven years, and the relevant Experience is
-          fresher. I wanted to become a full stack developer in future. You can
-          check out my profile on github.
+          “Open to opportunities in Quality Assurance, specializing in manual testing.”
         </p>
 
         <br />

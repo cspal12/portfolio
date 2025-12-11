@@ -13,8 +13,10 @@ const About = () => {
           </p>
         </div>
         <p className="text-xl mt-20">
-          “I am a Manual QA Tester dedicated to ensuring software quality, identifying issues before release, and helping teams deliver reliable, user‑friendly applications.”
-        </p>
+          “Designed and executed manual test cases for internal platforms and tools.
+Performed functional, regression, and UI testing to maintain platform reliability.
+Reported and tracked bugs using Excel and Jira, ensuring timely resolutions.
+Conducted cross-browser and responsive testing to ensure compatibility across devices.</p>
 
         <br />
         {/* <p className="text-xl ">
